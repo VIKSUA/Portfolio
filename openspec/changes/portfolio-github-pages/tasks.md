@@ -5,5 +5,5 @@
 - [x] Add GitHub public repo fetch service and UI components
 - [x] Implement private panel and Cloudflare Worker proxy
 - [x] Add ErrorBoundary and resilient error states
-- [ ] Create GitHub Pages deployment workflow
+- [x] Create GitHub Pages deployment workflow
 - [ ] Document local dev, deployment, and worker setup
