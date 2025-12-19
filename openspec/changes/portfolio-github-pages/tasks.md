@@ -6,4 +6,4 @@
 - [x] Implement private panel and Cloudflare Worker proxy
 - [x] Add ErrorBoundary and resilient error states
 - [x] Create GitHub Pages deployment workflow
-- [ ] Document local dev, deployment, and worker setup
+- [x] Document local dev, deployment, and worker setup
